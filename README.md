@@ -98,3 +98,7 @@ Produced user guides, audit testing and remediation documentation, SOPs, and job
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+## Complete Application Package
+
+- [Download Cover Page](./Cover%202026%20-%20S%20Trites.docx)
+- [Download Résumé](./Shawn%20Trites%202026.docx)
