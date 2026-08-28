@@ -108,11 +108,12 @@ Skilled at collaborating with SMEs, product owners, subcontractors, and executiv
 ## Why Work With Me
 
 - I rapidly learn new systems and technologies.  
+- I collaborate and proactively engage with all user types and roles to elicit, create, refine, and maintain documentation. 
 - I translate complex systems into clear, usable documentation.  
 - I reduce onboarding time and support requests.
 - I build, scale, and maintain documentation repositories. 
 - I modernize documentation workflows using automation and AI.  
-- I deliver compliant, persuasive proposal content aligned with Shipley.
+- I deliver compliant, persuasive proposal content aligned with Shipley, with firm win themes and consistent branding.
 
 ---
 
