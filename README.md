@@ -46,7 +46,7 @@ Skilled at collaborating with SMEs, product owners, subcontractors, and executiv
 | Category | Skills |
 |---------|--------|
 | Technical Writing | User Guides, SOPs, Playbooks, API/SDK Docs, DR/COOP |
-| Proposal Development | Shipley, RFI/RFP Responses, Win Themes, Compliance Matrices |
+| Proposal Development | Shipley, RFI/RFP Responses, Capture, Win Themes, Compliance Matrices |
 | Knowledge Management | SharePoint Architecture, Metadata, Taxonomy, Semantic Search |
 | Automation & AI | Power Fx, Power Automate, Power Apps, AI Agents |
 | Cloud & Platforms | AWS, Azure, Salesforce |
@@ -96,12 +96,12 @@ Skilled at collaborating with SMEs, product owners, subcontractors, and executiv
 
 ## Education & Certifications
 
-- Shipley Proposal Writing Certification (2025)  
-- Adobe RoboHelp and RoboSource Certification  
-- IBM Rational Tool Training  
-- SOX and IT Compliance Coursework  
-- Accessibility and Section 508 Compliance Training  
-- University of Maryland – Computer Studies (in progress)
+- Shipley Proposal Writing Certification (2025).  
+- Adobe RoboHelp and RoboSource Certification.  
+- IBM Rational Tool Training.
+- SOX and IT Compliance Coursework.
+- Accessibility and Section 508 Compliance Training. 
+- University of Maryland – Computer Studies (in progress).
 
 ---
 
@@ -118,6 +118,6 @@ Skilled at collaborating with SMEs, product owners, subcontractors, and executiv
 
 ## Security & Work Preferences
 
-- US citizen; previously held Public Trust and Secret clearances  
-- Remote work preferred; not willing to relocate  
+- US citizen; previously held Public Trust and Secret clearances.  
+- Remote work preferred; not willing to relocate.  
 
