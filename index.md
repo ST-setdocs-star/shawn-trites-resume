@@ -102,11 +102,13 @@ Skilled at collaborating with SMEs, product owners, subcontractors, and executiv
 
 ## Education & Certifications
 
-- Shipley Proposal Writing Certification (2025) 
+- New Horizons - Microsoft Office certification
+- Shipley Proposal Writing Certification
 - Adobe RoboHelp and RoboSource Certification 
 - IBM Rational Tool Training  
 - SOX and IT Compliance Coursework  
 - Accessibility and Section 508 Compliance Training  
+- WJCC - Associates/Accounting
 - University of Maryland – Computer Studies (in progress)
 
 ---
