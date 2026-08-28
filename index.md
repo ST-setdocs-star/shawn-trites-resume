@@ -50,10 +50,10 @@ Skilled at collaborating with SMEs, product owners, subcontractors, and executiv
 
 | Category | Skills |
 |---------|--------|
-| Technical Writing | User Guides, SOPs, Playbooks, API/SDK Docs, DR/COOP |
-| Proposal Development | Shipley, RFI/RFP Responses, Win Themes, Compliance Matrices |
+| Technical Writing | User Guides, SOPs, Playbooks, API/SDK Docs, System Administrator Guides, Requirements (BDR/FRD/MRD), DR/COOP |
+| Proposal Development | Shipley, RFI/RFP Responses, Win Themes, Reusable Content, Compliance Matrices |
 | Knowledge Management | SharePoint Architecture, Metadata, Taxonomy, Semantic Search |
-| Automation & AI | Power Fx, Power Automate, Power Apps, AI Agents |
+| Automation & AI | Power Fx, Power Automate, Power Apps, AI Agents, Claude, ChatGPT, Copilot |
 | Cloud & Platforms | AWS, Azure, Salesforce |
 | Compliance | SOX, PCI, HIPAA, Section 508, WCAG, NIST 800‑53/37/171 |
 
@@ -61,48 +61,49 @@ Skilled at collaborating with SMEs, product owners, subcontractors, and executiv
 
 ## Key Projects & Deliverables
 
-- **Apple SRE Knowledgebase Overhaul** – Built structured Confluence libraries, runbooks, and onboarding materials that reduced onboarding time and improved incident‑response efficiency.
-- **ESPN IT Documentation Suite** – Delivered SOPs, audit documentation, SLAs, and monthly release notes supporting Disney‑affiliated companies and SOX compliance.
-- **State Medicaid RFP Responses (Hewlett Packard)** – Authored compliant, standards‑aligned proposal content and delivered executive presentations to 35+ stakeholders.
-- **SharePoint Past Performance Library (DNI)** – Designed metadata, taxonomy, capability filtering, and Power Apps automation for a scalable, searchable past‑performance system.
-- **Transit‑System Deployment Documentation (moovel NA)** – Authored API references, integration guides, sys admin guides, and customer‑facing materials supporting nationwide transit‑agency rollouts.
+- **Apple SRE Knowledgebase Overhaul** – Built structured Confluence libraries, runbooks, and onboarding materials that reduced onboarding time and improved incident‑response efficiency
+- **ESPN IT Documentation Suite** – Delivered SOPs, audit documentation, SLAs, and monthly release notes supporting Disney‑affiliated companies and SOX compliance
+- **State Medicaid RFP Responses (Hewlett Packard)** – Authored compliant, standards‑aligned proposal content and delivered executive presentations to 35+ stakeholders
+- **SharePoint Past Performance Library (DNI)** – Designed metadata, taxonomy, capability filtering, and Power Apps automation for a scalable, searchable past‑performance system
+- **Transit‑System Deployment Documentation (moovel NA)** – Authored API references, integration guides, sys admin guides, and customer‑facing materials supporting nationwide transit‑agency rollouts
 
 ---
 
 ## Selected Experience
 
 ### **Maximus (TCML) – Senior Proposal Writer / Senior Technical Writer – Telecommute**
-- Created RFI and RFP technical responses using Microsoft 365, automation, and AI tools.  
-- Developed knowledgebase articles and proposal writer guides for reuse.  
-- Collaborated with SMEs to elicit technical solution material for Salesforce implementations.
+- Created RFI and RFP technical responses using Microsoft 365, automation, and AI tools
+- Developed knowledgebase articles and proposal writer guides for reuse  
+- Collaborated with SMEs to elicit technical solution material for Salesforce implementations
 
-### **Delaware Nation Investments – Solutions Architect / Senior Technical Writer – Telecommute**
-- Authored and maintained past performance documentation for future proposal responses.  
-- Created RFI/RFP technical responses using automation, AI tools, and prompt engineering.  
-- Built and governed a SharePoint past‑performance library with advanced metadata and taxonomy.  
-- Developed Power Fx apps and automation to streamline documentation workflows.
+### **DNI – Solutions Architect / Senior Technical Writer – Telecommute**
+- Authored and maintained past performance documentation for future proposal responses 
+- Created RFI/RFP technical responses using automation, AI tools, and prompt engineering  
+- Built and governed a SharePoint past‑performance library with advanced metadata and taxonomy 
+- Developed Power Fx apps and automation to streamline documentation workflows
 
 ### **moovel NA – Senior Technical Writer – Telecommute**
-- Authored engineering documentation including API references, integration guides, sys admin guides.  
-- Produced playbooks, support guides, training materials, and release notes.  
-- Improved onboarding efficiency for transit‑agency customers.
+- Authored engineering documentation including API references, integration guides, and system admin guides  
+- Produced playbooks, support guides, training materials, and release notes
+- Accelerated proposal times through reusable content and graphics
+- Improved onboarding efficiency for transit‑agency customers
 
 ### **Apple (MindSource) – Technical Writer, SRE Team – Telecommute**
-- Documented systems, runbooks, onboarding materials, and release notes.  
-- Built Confluence‑based knowledgebases and structured team documentation.  
-- Improved incident‑response efficiency and onboarding time.
+- Documented systems, runbooks, onboarding materials, and release notes 
+- Built Confluence‑based knowledge bases and structured team documentation  
+- Improved incident‑response efficiency and onboarding time
 
 ### **ESPN – Technical Writer / IT Analyst – Bristol, CT**
-- Produced user guides, SOPs, audit documentation, SLAs, and job aids.  
-- Implemented RoboHelp/RoboSource and created SharePoint sites.  
-- Supported SOX compliance and documented Remedy/SAP projects.
+- Produced user guides, SOPs, audit documentation, SLAs, and job aids
+- Implemented RoboHelp/RoboSource and created SharePoint sites 
+- Supported SOX compliance and documented Remedy/SAP projects
 
 ---
 
 ## Education & Certifications
 
-- Shipley Proposal Writing Certification (2025)  
-- Adobe RoboHelp and RoboSource Certification  
+- Shipley Proposal Writing Certification (2025) 
+- Adobe RoboHelp and RoboSource Certification 
 - IBM Rational Tool Training  
 - SOX and IT Compliance Coursework  
 - Accessibility and Section 508 Compliance Training  
@@ -112,16 +113,17 @@ Skilled at collaborating with SMEs, product owners, subcontractors, and executiv
 
 ## Why Work With Me
 
-- I rapidly learn new systems and technologies.  
-- I translate complex systems into clear, usable documentation.  
-- I reduce onboarding time and support requests.  
-- I modernize documentation workflows using automation and AI.  
-- I deliver compliant, persuasive proposal content aligned with Shipley.
+- I rapidly learn new systems and technologies
+- I proactively engage and collaborate with all roles - from developers to senior stakeholders to elicit content
+- I translate complex systems into clear, usable documentation 
+- I reduce onboarding time and support requests  
+- I modernize documentation workflows using automation and AI  
+- I deliver compliant, persuasive proposal content aligned with Shipley
 
 ---
 
 ## Security & Work Preferences
 
-- US citizen; previously held Public Trust and Secret clearances  
+- US citizen; previously held Public Trust and Secret clearances
 - Remote work preferred; not willing to relocate  
 
