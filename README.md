@@ -71,7 +71,7 @@ Skilled at collaborating with SMEs, product owners, subcontractors, and executiv
 - Developed knowledgebase articles and proposal writer guides for reuse.  
 - Collaborated with SMEs to elicit technical solution material for Salesforce implementations.
 
-### **Delaware Nation Investments – Solutions Architect / Senior Technical Writer – Telecommute**
+### **DNI – Solutions Architect / Senior Technical Writer – Telecommute**
 - Authored and maintained past performance documentation for future proposal responses.  
 - Created RFI/RFP technical responses using automation, AI tools, and prompt engineering.  
 - Built and governed a SharePoint past‑performance library with advanced metadata and taxonomy.  
