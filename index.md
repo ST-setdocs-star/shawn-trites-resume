@@ -24,11 +24,7 @@ layout: default
 
 ## Professional Summary
 
-Senior Technical Writer, Solutions Architect, and Proposal Specialist with extensive experience delivering actionable documentation, intelligent solutions, and high‑impact proposal materials for Federal agencies, healthcare organizations, and enterprise environments. Expert in creating and maintaining comprehensive IT documentation including user guides, SOPs, playbooks, system‑administrator guides, API and SDK documentation, disaster‑recovery and COOP plans, and compliance materials for diverse technical and non‑technical audiences.
-
-Documentation is consistently recognized for accuracy, usability, and effectiveness in supporting onboarding, reducing support requests, and increasing adoption of complex systems. Deep experience applying Shipley methodology to produce persuasive and compliant RFI and RFP responses, capability matrices, win themes, and customer‑focused proposal narratives.
-
-Skilled at collaborating with SMEs, product owners, subcontractors, and executives to capture requirements, refine technical details, and translate complex systems into accessible documentation. Innovative in expanding documentation distribution and learning mechanisms using modern platforms, automation, and multi‑modal delivery methods.
+Senior Technical Writer, Solutions Architect, and Proposal Specialist with extensive experience delivering actionable documentation, intelligent solutions, and high‑impact proposal materials for Government agencies, healthcare organizations, and enterprise environments. Expert in creating and maintaining comprehensive IT documentation including user guides, SOPs, playbooks, system‑administrator guides, API and SDK documentation, disaster‑recovery and COOP plans, and compliance materials for diverse technical and non‑technical audiences. Documentation is consistently recognized for accuracy, usability, and effectiveness in supporting onboarding, reducing support requests, and increasing adoption of complex systems. Deep experience applying Shipley methodology to produce persuasive and compliant RFI and RFP responses, capability matrices, win themes, and customer‑focused proposal narratives. Skilled at collaborating with SMEs, product owners, subcontractors, and executives to capture requirements, refine technical details, and translate complex systems into accessible documentation. Known for strong organization, editorial precision, thorough research, and the ability to rapidly adopt new systems, frameworks, and technologies. Innovative in expanding documentation distribution and learning mechanisms using modern platforms, automation, and multi‑modal delivery methods. Skilled in SharePoint administration, workflow automation, metadata optimization, taxonomy design, and semantic search. Advanced expertise in AI integration, prompt engineering, and agent development using ChatGPT agents and the Microsoft Power Platform (Power Fx, Power Automate, Power Apps, Forms, and Power BI) to accelerate proposal cycles, modernize knowledge‑management systems, and streamline documentation processes. Strong stakeholder engagement and adoption. KCS including demand‑driven article creation, templating, collective ownership, iterative knowledge lifecycle management, and continuous improvement within ITIL‑aligned knowledge‑management environments. Proven success in SOC, SOX, PCI, HIPAA, Section 508, and WCAG compliance standards‑aligned documentation.
 
 ---
 
@@ -52,7 +48,7 @@ Skilled at collaborating with SMEs, product owners, subcontractors, and executiv
 |---------|--------|
 | Technical Writing | User Guides, SOPs, Playbooks, API/SDK Docs, System Administrator Guides, Requirements (BDR/FRD/MRD), DR/COOP |
 | Proposal Development | Shipley, RFI/RFP Responses, Win Themes, Reusable Content, Compliance Matrices |
-| Knowledge Management | SharePoint Architecture, Metadata, Taxonomy, Semantic Search |
+| Knowledge Management | SharePoint Architecture, Confluence Development, Knowledge Centered Service/Success, Metadata, Taxonomy, Semantic Search |
 | Automation & AI | Power Fx, Power Automate, Power Apps, AI Agents, Claude, ChatGPT, Copilot |
 | Cloud & Platforms | AWS, Azure, Salesforce |
 | Compliance | SOX, PCI, HIPAA, Section 508, WCAG, NIST 800‑53/37/171 |
@@ -79,24 +75,26 @@ Skilled at collaborating with SMEs, product owners, subcontractors, and executiv
 ### **DNI – Solutions Architect / Senior Technical Writer – Telecommute**
 - Authored and maintained past performance documentation for future proposal responses 
 - Created RFI/RFP technical responses using automation, AI tools, and prompt engineering  
-- Built and governed a SharePoint past‑performance library with advanced metadata and taxonomy 
+- Built and governed a SharePoint past‑performance library with advanced metadata and taxonomy
+- Applied KCS-aligned practices to govern content, enforce standardized templates, maintain article lifecycle workflows, and ensure collective ownership across SMEs and proposal teams
 - Developed Power Fx apps and automation to streamline documentation workflows
 
 ### **moovel NA – Senior Technical Writer – Telecommute**
-- Authored engineering documentation including API references, integration guides, and system admin guides  
+- Authored engineering documentation including API references, integration guides, and system admin guides using shared repositories and the Google ecosystem, aligning updates with release schedules
 - Produced playbooks, support guides, training materials, and release notes
 - Accelerated proposal times through reusable content and graphics
 - Improved onboarding efficiency for transit‑agency customers
 
 ### **Apple (MindSource) – Technical Writer, SRE Team – Telecommute**
-- Documented systems, runbooks, onboarding materials, and release notes 
-- Built Confluence‑based knowledge bases and structured team documentation  
-- Improved incident‑response efficiency and onboarding time
+- Documented systems, processes, runbooks, onboarding materials, and release notes for SRE team
+- Built and maintained Confluence-based SRE knowledgebases, team pages, and consolidated documentation libraries to support reliability practices
+- Organized content for accessibility and long-term maintainability; developed process maps to clarify workflows and improve operational efficiency
+- Implemented KCS-aligned knowledge lifecycle processes, ensuring consistent updates, structured templates, and collaborative content ownership
 
 ### **ESPN – Technical Writer / IT Analyst – Bristol, CT**
 - Produced user guides, SOPs, audit documentation, SLAs, and job aids
 - Implemented RoboHelp/RoboSource and created SharePoint sites 
-- Supported SOX compliance and documented Remedy/SAP projects
+- Supported and documented SOX compliance and Remedy/SAP projects
 
 ---
 
